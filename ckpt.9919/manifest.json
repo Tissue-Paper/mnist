@@ -1,0 +1,58 @@
+{
+  "conv1/Variable": {
+    "filename": "conv1_Variable",
+    "shape": [
+      5,
+      5,
+      1,
+      8
+    ]
+  },
+  "conv1/Variable_1": {
+    "filename": "conv1_Variable_1",
+    "shape": [
+      8
+    ]
+  },
+  "conv2/Variable": {
+    "filename": "conv2_Variable",
+    "shape": [
+      5,
+      5,
+      8,
+      16
+    ]
+  },
+  "conv2/Variable_1": {
+    "filename": "conv2_Variable_1",
+    "shape": [
+      16
+    ]
+  },
+  "fc1/Variable": {
+    "filename": "fc1_Variable",
+    "shape": [
+      784,
+      64
+    ]
+  },
+  "fc1/Variable_1": {
+    "filename": "fc1_Variable_1",
+    "shape": [
+      64
+    ]
+  },
+  "fc2/Variable": {
+    "filename": "fc2_Variable",
+    "shape": [
+      64,
+      10
+    ]
+  },
+  "fc2/Variable_1": {
+    "filename": "fc2_Variable_1",
+    "shape": [
+      10
+    ]
+  }
+}
