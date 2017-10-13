@@ -1,42 +1,42 @@
 #wrapper {
-	max-width	: 280px;
-	margin		: 0 50px;
-	text-align	: center;
+  max-width: 280px;
+  margin: 0 50px;
+  text-align: center;
 }
 
 #result {
-	width	: 100%;
-	height	: 86px;
+  width: 100%;
+  height: 86px;
 }
 
 #result tr:first-child td {
-	font-weight	: bold;
+  font-weight: bold;
 }
 
 #result td {
-	width	: 50%;
+  width: 50%;
 }
 
 #result tr:first-child div {
-	background	: #98d98e;
+  background: #98d98e;
 }
 
 #result div {
-	background	: #bbc8e6;
+  background: #bbc8e6;
 }
 
 canvas {
-	cursor		: pointer;
-	border		: 1px solid gray;
-	box-sizing	: border-box;
+  cursor: pointer;
+  border: 1px solid gray;
+  box-sizing: border-box;
 }
 
 .input {
-	width	: 50%;
+  width: 50%;
 }
 
 button {
-	width	: 50%;
-	height	: 50px;
-	cursor	: pointer;
+  width: 50%;
+  height: 50px;
+  cursor: pointer;
 }
