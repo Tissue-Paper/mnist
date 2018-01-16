@@ -1,0 +1,178 @@
+{
+  "adam_optimizer/beta1_power": {
+    "filename": "adam_optimizer_beta1_power",
+    "shape": []
+  },
+  "adam_optimizer/beta2_power": {
+    "filename": "adam_optimizer_beta2_power",
+    "shape": []
+  },
+  "conv1/Variable": {
+    "filename": "conv1_Variable",
+    "shape": [
+      5,
+      5,
+      1,
+      8
+    ]
+  },
+  "conv1/Variable/Adam": {
+    "filename": "conv1_Variable_Adam",
+    "shape": [
+      5,
+      5,
+      1,
+      8
+    ]
+  },
+  "conv1/Variable/Adam_1": {
+    "filename": "conv1_Variable_Adam_1",
+    "shape": [
+      5,
+      5,
+      1,
+      8
+    ]
+  },
+  "conv1/Variable_1": {
+    "filename": "conv1_Variable_1",
+    "shape": [
+      8
+    ]
+  },
+  "conv1/Variable_1/Adam": {
+    "filename": "conv1_Variable_1_Adam",
+    "shape": [
+      8
+    ]
+  },
+  "conv1/Variable_1/Adam_1": {
+    "filename": "conv1_Variable_1_Adam_1",
+    "shape": [
+      8
+    ]
+  },
+  "conv2/Variable": {
+    "filename": "conv2_Variable",
+    "shape": [
+      5,
+      5,
+      8,
+      16
+    ]
+  },
+  "conv2/Variable/Adam": {
+    "filename": "conv2_Variable_Adam",
+    "shape": [
+      5,
+      5,
+      8,
+      16
+    ]
+  },
+  "conv2/Variable/Adam_1": {
+    "filename": "conv2_Variable_Adam_1",
+    "shape": [
+      5,
+      5,
+      8,
+      16
+    ]
+  },
+  "conv2/Variable_1": {
+    "filename": "conv2_Variable_1",
+    "shape": [
+      16
+    ]
+  },
+  "conv2/Variable_1/Adam": {
+    "filename": "conv2_Variable_1_Adam",
+    "shape": [
+      16
+    ]
+  },
+  "conv2/Variable_1/Adam_1": {
+    "filename": "conv2_Variable_1_Adam_1",
+    "shape": [
+      16
+    ]
+  },
+  "fc1/Variable": {
+    "filename": "fc1_Variable",
+    "shape": [
+      1600,
+      64
+    ]
+  },
+  "fc1/Variable/Adam": {
+    "filename": "fc1_Variable_Adam",
+    "shape": [
+      1600,
+      64
+    ]
+  },
+  "fc1/Variable/Adam_1": {
+    "filename": "fc1_Variable_Adam_1",
+    "shape": [
+      1600,
+      64
+    ]
+  },
+  "fc1/Variable_1": {
+    "filename": "fc1_Variable_1",
+    "shape": [
+      64
+    ]
+  },
+  "fc1/Variable_1/Adam": {
+    "filename": "fc1_Variable_1_Adam",
+    "shape": [
+      64
+    ]
+  },
+  "fc1/Variable_1/Adam_1": {
+    "filename": "fc1_Variable_1_Adam_1",
+    "shape": [
+      64
+    ]
+  },
+  "fc2/Variable": {
+    "filename": "fc2_Variable",
+    "shape": [
+      64,
+      52
+    ]
+  },
+  "fc2/Variable/Adam": {
+    "filename": "fc2_Variable_Adam",
+    "shape": [
+      64,
+      52
+    ]
+  },
+  "fc2/Variable/Adam_1": {
+    "filename": "fc2_Variable_Adam_1",
+    "shape": [
+      64,
+      52
+    ]
+  },
+  "fc2/Variable_1": {
+    "filename": "fc2_Variable_1",
+    "shape": [
+      52
+    ]
+  },
+  "fc2/Variable_1/Adam": {
+    "filename": "fc2_Variable_1_Adam",
+    "shape": [
+      52
+    ]
+  },
+  "fc2/Variable_1/Adam_1": {
+    "filename": "fc2_Variable_1_Adam_1",
+    "shape": [
+      52
+    ]
+  }
+}

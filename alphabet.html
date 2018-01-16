@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>alphabet</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link href="src/alphabet_style.css" rel="stylesheet">
+    <script src="https://rawgit.com/kangax/fabric.js/master/dist/fabric.min.js"></script>
+    <script src="https://unpkg.com/deeplearn@0.3.13/dist/deeplearn.js"></script>
+    <script src="src/alphabet_preprocessing.js"></script>
+    <script src="src/alphabet_interface.js"></script>
+    <script src="src/alphabet_inference.js"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <table id="result">
+        <tr>
+          <th onclick="foo()">Now loading...</th>
+        </tr>
+      </table>
+      <canvas id="c"></canvas>
+      <button>clear</button><button disabled>infer</button>
+    </div>
+  </body>
+</html>
