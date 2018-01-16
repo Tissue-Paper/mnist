@@ -6,6 +6,7 @@
  https://tissue-paper.github.io/mnist/index
  
  Alphabet version
+ 
  https://tissue-paper.github.io/mnist/alphabet
  
  <img src="https://user-images.githubusercontent.com/31882382/31535322-aea65414-b035-11e7-9859-95fbc77f82b6.gif">
